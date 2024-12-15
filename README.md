@@ -1,8 +1,8 @@
-# Quiz-App-with-React-
-- It s a simple quiz app . You can choose hard level and category.
-- when you click the answer , if you sign right answer background being green but if you sign wrong answer , its background being red and show the right answer.
-- It s have timer (30 s).
-- finally ıt s show right question count .
+# Movie-Website(CıneTower)-
+- This is a movie website (Cine Tower).
+- This website have three category (Netflix, Amazon Prime ,Disney Plus).
+- Every category have three optıons (movie, film, kids).
+- When you click watch button, you can see the detail of film screen (Image,cast,duration,summary...).
 
 
 
