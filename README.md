@@ -1,7 +1,7 @@
--This is a movie website (Cine Tower)
--This website have three category (Netflix, Amazon Prime ,Disney Plus)
--Every category have three optıons (movie, film, kids)
--When you click watch button, you can see the detail of film screen (Image,cast,duration,summary...)
+-This is a movie website (Cine Tower).
+-This website have three category (Netflix, Amazon Prime ,Disney Plus).
+-Every category have three optıons (movie, film, kids).
+-When you click watch button, you can see the detail of film screen (Image,cast,duration,summary...).
 
 
 
